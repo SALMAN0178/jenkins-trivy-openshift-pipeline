@@ -1,0 +1,1 @@
+# jenkins-trivy-openshift-pipeline
